@@ -1,4 +1,4 @@
-# task6_corect_code.py
+# task1_corect_code.py
 
 result = []
 
